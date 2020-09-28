@@ -4,3 +4,5 @@ prueba2
 
 Cambio hecho desde la rama fix para probar el Pull Request
 
+
+Hago cambio desde otro usuario no colaborador que ha hecho un fork
